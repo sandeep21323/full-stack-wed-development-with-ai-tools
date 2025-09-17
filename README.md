@@ -1,1 +1,1 @@
-# full-stack-wed-development-with-ai-tools
+# full-stack-wed-development-with-ai-tool
